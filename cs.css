@@ -140,8 +140,13 @@ a {
     display: none;
   }
 }
+h2:hover{
+  cursor: pointer;
+  text-decoration: underline;
+}
 .card {
-  background-color: #232323;
+  opacity: 0.7;
+   /* background-color:transparent;  */
   width: 150px;
   border-radius: 0.2rem;
   padding: 1rem;
@@ -151,6 +156,11 @@ a {
 .cards-container {
   display: flex;
   flex-wrap: wrap;
+}
+.card:hover {
+  opacity: 1;  
+cursor: pointer;
+ background-color: #232323; 
 }
 .card-img {
   width: 100%;
