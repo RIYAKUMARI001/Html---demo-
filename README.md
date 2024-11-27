@@ -32,7 +32,7 @@ Bootstrap: For faster development and responsive grid system.
 1.Clone this repository:
 bash
 
-git clone
+git clone https://github.com/RIYAKUMARI001/Html---demo-.git
 
 2.Open the index.html file in your browser.
 
