@@ -36,6 +36,8 @@ git clone https://github.com/RIYAKUMARI001/Html---demo-.git
 
 2.Open the index.html file in your browser.
 
+LIVE demo -  https://riyakumari001.github.io/Html---demo-/
+
 📚 Future Improvements
 Add functionality to the music player using JavaScript.
 
