@@ -32,11 +32,11 @@ Bootstrap: For faster development and responsive grid system.
 1.Clone this repository:
 bash
 
-git clone https://github.com/RIYAKUMARI001/Html---demo-.git
+https://github.com/RIYAKUMARI001/spotify-clone.git
 
 2.Open the index.html file in your browser.
 
-LIVE demo -  https://riyakumari001.github.io/Html---demo-/
+LIVE demo -   https://riyakumari001.github.io/spotify-clone/
 
 📚 Future Improvements
 Add functionality to the music player using JavaScript.
